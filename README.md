@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-    <img src="screenshots/IMG_0001.png" width="450" height="400"/>
-    <img src="screenshots/IMG_0002.png" width="450" height="400"/>
+    <img src="screenshots/IMG_0001.png" width="450" height="500"/>
+    <img src="screenshots/IMG_0002.png" width="450" height="500"/>
 </p>
 
 ---
