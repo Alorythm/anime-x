@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Manjari';
+    src: url('/public/Manjari-Regular.ttf');
+}
+
+* {
+    font-family: 'Manjari';
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+video {
+    min-width: 100vw;
+    min-height: 100vh;
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+}
+
+.anime-card {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    border-radius: 0.5rem;
+    overflow: hidden;
+}
+
+.anime-card:hover {
+    transform: scale(1.03);
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+    border-color: #00bcd4;
+}
+
+.card-title {
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.card-text {
+    color: #cccccc;
+}
+
+.card-img-top {
+    object-fit: cover;
+    height: 250px;
+    border-bottom: 1px solid #444;
+}
