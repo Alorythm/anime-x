@@ -4,6 +4,17 @@
 
 ---
 
+<p align="center">
+    <video autoplay loop><source src="screenshots/wallpaper.mp4" type="video/mp4"></video>
+</p>
+
+<p align="center">
+    <img src="screenshots/IMG_0001.png" width="450" height="400"/>
+    <img src="screenshots/IMG_0002.png" width="450" height="400"/>
+</p>
+
+---
+
 ## ✨ Features
 
 ### 🔍 Top Anime Browser
